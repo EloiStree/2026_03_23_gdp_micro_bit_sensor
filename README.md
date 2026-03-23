@@ -1,3 +1,20 @@
+**Add add submodule to a project:**
+```
+git submodule add https://github.com/EloiStree/2026_03_23_gdp_micro_bit_sensor.git addons/2026_03_23_gdp_micro_bit_sensor
+
+```
+
+```
+git submodule update --init --recursive
+```
+
+```
+git clone https://github.com/EloiStree/2026_03_23_gdp_micro_bit_sensor.git addons/2026_03_23_gdp_micro_bit_sensor
+
+```
+
+-----------------
+
 > ⚠️ It is not a sponsor or commercial partnership.  
 >  I just need some .GLB files for my student to work on a fake client Godot XR Tools project.  
 > The aim is to train on moving, scaling, grabbing, connecting...   
