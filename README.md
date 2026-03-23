@@ -1,4 +1,5 @@
-> ⚠️ It is not a sponsor or commercial partnership. I just need some .GLB files for my student to work on a fake client Godot XR Tools project.
+> ⚠️ It is not a sponsor or commercial partnership.  
+>  I just need some .GLB files for my student to work on a fake client Godot XR Tools project.  
 
 ------------
 
