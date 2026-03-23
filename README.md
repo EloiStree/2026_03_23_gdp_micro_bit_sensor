@@ -1,4 +1,4 @@
-# Micro:Bit ensor
+# Micro:Bit sensor
 
 > Let's in group try to make `.glb` of the Keyestudio sensor pack to use in MicroBit simulator in XR
 
