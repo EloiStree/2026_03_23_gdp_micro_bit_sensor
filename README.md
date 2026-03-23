@@ -6,8 +6,8 @@
 
 > Let's in group try to make `.glb` of the Keyestudio sensor pack to use in MicroBit simulator in XR
 
-Doc: [https://docs.keyestudio.com/](https://docs.keyestudio.com/en/latest/docs/microbit/microbit.html)
-Keyestudio store: https://www.keyestudio.com/products/
+Doc: [https://docs.keyestudio.com/](https://docs.keyestudio.com/en/latest/docs/microbit/microbit.html)  
+Keyestudio store: https://www.keyestudio.com/products/   
 
 **On Alibaba**:  
 [<img width="443" height="405" alt="image" src="https://github.com/user-attachments/assets/f95006e7-e6f9-4248-bd40-ab4793948f26" />](https://www.alibaba.com/product-detail/37-in-1-Sensor-BBC-Microbit_1600489219839.html?spm=a2700.galleryofferlist.topad_classic.d_title.19e313a0oMLMs9&priceId=6640b27357ee48f1b8637c971ce980f4)   
