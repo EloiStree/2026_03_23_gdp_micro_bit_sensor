@@ -1,5 +1,6 @@
 > ⚠️ It is not a sponsor or commercial partnership.  
->  I just need some .GLB files for my student to work on a fake client Godot XR Tools project.  
+>  I just need some .GLB files for my student to work on a fake client Godot XR Tools project.
+> The aim is to train on moving, scaling, grabbing, connecting...
 
 ------------
 
