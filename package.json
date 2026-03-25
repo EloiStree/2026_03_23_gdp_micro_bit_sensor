@@ -1,0 +1,21 @@
+{
+  "name": "be.elab.microbitsensor",
+  "version": "2026.3.25",
+  "displayName": "Micro Bit Sensor",
+  "description": "Prototype micro bit sensor with low poly and square.",
+  "unity": "2019.1",
+  "unityRelease": "0b5",
+  "documentationUrl": "https://github.com/EloiStree/2026_03_23_gdp_micro_bit_sensor",
+  "changelogUrl": "https://github.com/EloiStree/2026_03_23_gdp_micro_bit_sensor",
+  "licensesUrl": "https://github.com/EloiStree/2026_03_23_gdp_micro_bit_sensor",
+  
+ "keywords": [
+    "3d"
+  ],
+  "author": {
+    "name": "Eloi Stree",
+    "email": "eloistree@gmail.com",
+    "url": "https://github.com/EloiStree"
+  }
+}
+
